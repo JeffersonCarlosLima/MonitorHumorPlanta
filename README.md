@@ -103,9 +103,11 @@ O código fonte está dividido nas seguintes seções:
   * **Conectividade Wi-Fi:** Enviar dados de umidade para uma plataforma de IoT (Blynk, Home Assistant) ou receber notificações no celular.
   * **Modo de Economia de Energia:** Colocar o ESP32 em modo *deep sleep* para economizar bateria, acordando apenas de tempos em tempos para fazer a medição.
 
-
-
 ## Autor
 
   * **Jefferson Carlos Lima**
   * *Código revisado e documentação gerada pela IA Gemini.*
+
+<img width="1359" height="1868" alt="image" src="https://github.com/user-attachments/assets/4dbaee53-d272-4e76-bac0-38c3d3a7f040" />
+
+    
